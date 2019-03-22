@@ -21,9 +21,7 @@ var carDetails = {
   Use object destructuring to save the property values from the object carDetails into new variables. 
 */
 
-let =  {color,make,model,year} = {color: 'red', make: 'toyota',model: 'tacoma',year: 1994}
-
-
+let =  {color,make,model,year} = carDetails
 
 ////////// PROBLEM 2 //////////
 
